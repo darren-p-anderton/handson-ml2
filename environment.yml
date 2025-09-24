@@ -44,7 +44,7 @@ dependencies:
     - tfx~=1.3.0  # platform to deploy production ML pipelines
     - transformers~=4.11.3  # Natural Language Processing lib for TF or PyTorch
     - urlextract~=1.4.0  # optionally used in chapter 3, exercise 4
-    - gym[atari,accept-rom-license]~=0.21.0  # used only in chapter 18
+    #- gym[atari,accept-rom-license]~=0.21.0  # used only in chapter 18
 
 # Specific lib versions to avoid conflicts
   - attrs=20.3
